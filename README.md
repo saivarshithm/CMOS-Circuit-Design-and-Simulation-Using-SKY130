@@ -1,6 +1,6 @@
 # CMOS Circuit Design and Spice Simulation
 
-This repository presents a structured five-day study of CMOS circuit design, spanning NMOS device physics, short-channel effects, inverter characteristics, and robustness evaluation. The discussion integrates theoretical analysis with SPICE-based laboratory results to demonstrate how transistor-level behavior influences key digital design metrics, including speed, power, and reliability.
+This repository presents a structured five-day study of CMOS circuit design, spanning NMOS device physics, short-channel effects, inverter characteristics, and robustness evaluation. The discussion integrates theoretical analysis with SPICE-based laboratory results to demonstrate how transistor-level behaviour influences key digital design metrics.
 
 ## Table of Contents
 
